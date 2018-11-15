@@ -1,2 +1,3 @@
 # geniustudent-project
-projet angular
+projet angular 
+une application de haut niveau
